@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/ScriptSt/MM/raw/main/Menu"))()
